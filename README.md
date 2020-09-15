@@ -1,7 +1,7 @@
 # Kaggle - House Prices
-## Quick Intro (Here is my [detailed analysis on Kaggle](https://github.com/TS-0910/Kaggle_Housing/blob/master/house-price-ts-0910.ipynb))
+## Quick Intro (Here is [my detailed analysis on Kaggle](https://github.com/TS-0910/Kaggle_Housing/blob/master/house-price-ts-0910.ipynb))
 This is one of the most famous competition on Kaggle.<br/>
-Here is [the detailed description]((https://www.kaggle.com/c/house-prices-advanced-regression-techniques)), but in a nutshell, the gist of this competition is to **predict the house prices based on features such as the size of the garage, living room, overall quality etc**.<br/><br/>
+Here is [the overall description](https://www.kaggle.com/c/house-prices-advanced-regression-techniques), but in a nutshell, the gist of this competition is to **predict the house prices based on features such as the size of the garage, living room, overall quality etc**.<br/><br/>
 
 
 ## Approach
