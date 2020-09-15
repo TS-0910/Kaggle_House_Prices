@@ -1,9 +1,8 @@
 # Kaggle - House Price
-## Quick Intro
+## Quick Intro (Please see [here](https://github.com/TS-0910/Kaggle_Housing/blob/master/house-price-ts-0910.ipynb) to see my detailed analysis on Kaggle)
 This is one of the most famous competition on Kaggle.<br/>
 [Here](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) is the detailed description, but in a nutshell, the gist of this competition is to **predict the house prices based on features such as the size of the garage, living room, overall quality etc**.<br/><br/>
 
-Please see [here](https://github.com/TS-0910/Kaggle_Housing/blob/master/house-price-ts-0910.ipynb) to see my further analysis on Kaggle!
 
 ## Approach
 I used the basic idea of [Pedro Marcelino's example solution](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python) to approach the features, which is<br/>
