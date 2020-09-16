@@ -5,7 +5,7 @@ Here is [the overall description](https://www.kaggle.com/c/house-prices-advanced
 
 
 ## Approach
-I used the basic idea of [Pedro Marcelino's example solution](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python) to approach the features, which is<br/>
+I used the basic idea of [Pedro Marcelino's example solution](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python) to approach the features, which are<br/>
 1.Basic idea of which features are important, and which can be eliminated<br/>
 2.Transformation of important features using logs<br/>
 <br/>
@@ -17,5 +17,5 @@ R2 = 0.92638 <br/>
 These are the scores based on the training data.<br/>
 <br/>
 When I used the actual test data and submitted it, RMSE was 0.13980.<br/> 
-I thought this score is not bad, but for getting a better score, I could potentially take log of 1stFlrSF and use it as well. (I basically treated TotalBsmtSF and 1stFlrSF the same, but TotalBsmtSF includes zero values) <br/>
-Also, by using different machine learning methods and choosing the best result, and combining other contestants approaches and results, I could get a better score too. 
+I thought this score was not bad, but to get a better score, I could potentially take log of 1stFlrSF and use it as well. (I basically treated TotalBsmtSF and 1stFlrSF the same, but TotalBsmtSF includes zero values) <br/>
+Using different machine learning methods,choosing the best result, and combining other contestants approaches and results could improve the score too. 
