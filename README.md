@@ -1,4 +1,4 @@
-# Data Science Portfolios
+# Data Science Portfolio
 ## Bitgrid - [Video Popularity Prediction Challenge](https://github.com/TS-0910/Kaggle_House_Prices/blob/master/Video%20Popularity%20Prediction%20Challenge_8.2.2021.ipynb)
 - [The overall description](https://bitgrit.net/competition/11#)<br/>
 - Used Linear Regression(ElasticNet and Ridge Regression as well)
