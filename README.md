@@ -1,6 +1,7 @@
 # Data Science Portfolio
-## Bitgrid - [Video Popularity Prediction Challenge](https://github.com/TS-0910/Data-Science-Portfolio/blob/master/Video%20Popularity%20Prediction%20Challenge_10.2.2021.ipynb)
+## Bitgrid - [Video Popularity Prediction Challenge](https://github.com/TS-0910/Data-Science-Portfolio/blob/master/Video%20Popularity%20Prediction%20Challenge_12.2.2021.ipynb)
 - [The overall description](https://bitgrit.net/competition/11#)<br/>
+- Checked ｃorrelation coefficient and correlation reatio for feature engineering
 - Used Linear Regression(ElasticNet and Ridge Regression as well)
 - Tried light gbm and cross validation
 
